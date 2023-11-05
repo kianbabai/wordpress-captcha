@@ -22,7 +22,7 @@
  */
 
 // Passphrase, or salt. Change this to something random.
-define(PASSPHRASE, 'uHh4fr6epKoL2RU5ErkJggg');
+define('PASSPHRASE', 'uHh4fr6epKoL2RU5ErkJggg');
 
 function show_captcha() {
     //if ( is_user_logged_in() ) { return; }
